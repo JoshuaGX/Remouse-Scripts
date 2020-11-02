@@ -1,0 +1,1792 @@
+{Delay 1.24}
+{WinI ("Wizard101")}
+{LMouseI down (914,512)}
+{Delay 0.11}
+{LMouseI up (914,512)}
+{MovementsI (0.14:914:512|0.05:913:512|0.05:747:451|0.05:636:392|0.05:586:337|0.05:551:299|0.05:498:255|0.05:462:220|0.05:418:188|0.05:408:182|0.05:391:176)}
+{Delay 0.08}
+{LMouseI down (378,168)}
+{Delay 0.09}
+{LMouseI up (378,168)}
+{Delay 1.48}
+{CTRL down}
+{Delay 0.27}
+{5 down}
+{Delay 0.17}
+{5 up}
+{Delay 0.08}
+{CTRL up}
+{Delay 6.28}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 13.59}
+{PGDN down}
+{Delay 0.14}
+{PGDN up}
+{Delay 3.83}
+{x down}
+{Delay 0.14}
+{x up}
+{Delay 20.92}
+{UP down}
+{Delay 2.59}
+{LEFT down}
+{Delay 1.08}
+{LEFT up}
+{Delay 0.02}
+{UP up}
+{Delay 5.66}
+{F3 down}
+{Delay 0.08}
+{F3 up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.91:420:178|0.2:463:441)}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.14:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.11:644:494|0.06:644:494|0.06:651:494|0.08:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.2:748:231)}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.08:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.22:675:624|0.05:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.06:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.58}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.2:463:441)}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.05:616:484|0.22:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.05:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.42:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.05}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.06:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.69}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.66:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.08:616:484|0.2:643:494|0.19:644:494|0.08:644:494|0.06:651:494|0.06:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.23:659:494|0.17:659:494|0.39:659:494|0.31:659:494|0.31:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.03}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.19:748:231)}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.31:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.05}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.16:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.67}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.08:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.22:644:494|0.05:644:494|0.06:651:494|0.08:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.42:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.05}
+{LMouseI down (748,231)}
+{MovementsI (0.5:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.25:748:231|0.08:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.19:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.06:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.59}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.66:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.13:463:441|0.06:463:441|0.06:539:460|0.08:578:472|0.05:616:484|0.19:643:494|0.22:644:494|0.06:644:494|0.08:651:494|0.05:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.05}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.05}
+{LMouseI down (695,502)}
+{MovementsI (0.08:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.13:463:441|0.05:463:441|0.06:539:460|0.06:578:472|0.05:616:484|0.22:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.2:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.08:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.2:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.05}
+{LMouseI down (695,502)}
+{MovementsI (0.08:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.08:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.61}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.13:463:441|0.06:463:441|0.05:539:460|0.08:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.08:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.09:659:494|0.41:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.09:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.14:463:441|0.06:463:441|0.06:539:460|0.08:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.5:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.05:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.06:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.02}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.06:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.17:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.2:659:494|0.41:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.03}
+{LMouseI down (748,231)}
+{MovementsI (0.49:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (677,630)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.19:677:630|0.05:690:507)}
+{Delay 0.02}
+{LMouseI up (690,507)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.09:690:507|0.06:695:502)}
+{Delay 0.02}
+{LMouseI up (695,502)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:695:502|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.59}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.22:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.05:644:494|0.06:651:494|0.08:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.17:659:494|0.19:659:494|0.41:659:494|0.31:659:494|0.28:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.11}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.31:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.08:665:628)}
+{LMouseI up (665,628)}
+{Delay 0.25}
+{LMouseI down (677,630)}
+{MovementsI (2.17:665:628|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.02}
+{LMouseI down (690,507)}
+{MovementsI (1.19:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.05:578:472|0.08:616:484|0.19:643:494|0.2:644:494|0.05:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.17:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.05}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.2:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.05:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.14:702:497|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.63}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.31:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.05}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.05}
+{LMouseI down (665,628)}
+{MovementsI (1.31:748:231|0.09:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.24:675:624|0.08:690:507)}
+{LMouseI up (693,502)}
+{LMouseI down (695,502)}
+{MovementsI (0.14:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.05}
+{LMouseI down (707,492)}
+{MovementsI (0.11:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.72}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.22:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.11:463:441|0.08:463:441|0.06:539:460|0.05:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 10.05}
+{PGDN down}
+{Delay 0.05}
+{PGDN up}
+{Delay 15.05}
+{Delay 1.24}
+{WinI ("Wizard101")}
+{LMouseI down (914,512)}
+{Delay 0.11}
+{LMouseI up (914,512)}
+{MovementsI (0.14:914:512|0.05:913:512|0.05:747:451|0.05:636:392|0.05:586:337|0.05:551:299|0.05:498:255|0.05:462:220|0.05:418:188|0.05:408:182|0.05:391:176)}
+{Delay 0.08}
+{LMouseI down (378,168)}
+{Delay 0.09}
+{LMouseI up (378,168)}
+{Delay 1.48}
+{CTRL down}
+{Delay 0.27}
+{5 down}
+{Delay 0.17}
+{5 up}
+{Delay 0.08}
+{CTRL up}
+{Delay 6.28}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 13.59}
+{PGDN down}
+{Delay 0.14}
+{PGDN up}
+{Delay 3.83}
+{x down}
+{Delay 0.14}
+{x up}
+{Delay 20.92}
+{UP down}
+{Delay 2.59}
+{LEFT down}
+{Delay 1.08}
+{LEFT up}
+{Delay 0.02}
+{UP up}
+{Delay 5.66}
+{F3 down}
+{Delay 0.08}
+{F3 up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.91:420:178|0.2:463:441)}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.14:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.11:644:494|0.06:644:494|0.06:651:494|0.08:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.2:748:231)}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.08:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.22:675:624|0.05:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.06:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.58}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.2:463:441)}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.05:616:484|0.22:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.05:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.42:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.05}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.06:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.69}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.66:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.08:616:484|0.2:643:494|0.19:644:494|0.08:644:494|0.06:651:494|0.06:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.23:659:494|0.17:659:494|0.39:659:494|0.31:659:494|0.31:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.03}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.19:748:231)}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.31:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.05}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.16:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.67}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.08:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.22:644:494|0.05:644:494|0.06:651:494|0.08:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.42:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.05}
+{LMouseI down (748,231)}
+{MovementsI (0.5:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.25:748:231|0.08:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.19:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.06:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.59}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.66:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.13:463:441|0.06:463:441|0.06:539:460|0.08:578:472|0.05:616:484|0.19:643:494|0.22:644:494|0.06:644:494|0.08:651:494|0.05:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.05}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.05}
+{LMouseI down (695,502)}
+{MovementsI (0.08:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.13:463:441|0.05:463:441|0.06:539:460|0.06:578:472|0.05:616:484|0.22:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.2:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.08:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.2:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.05}
+{LMouseI down (695,502)}
+{MovementsI (0.08:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.08:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.61}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.13:463:441|0.06:463:441|0.05:539:460|0.08:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.08:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.09:659:494|0.41:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.09:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.14:463:441|0.06:463:441|0.06:539:460|0.08:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.5:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.05:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.06:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.02}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.06:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.17:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.2:659:494|0.41:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.03}
+{LMouseI down (748,231)}
+{MovementsI (0.49:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (677,630)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.19:677:630|0.05:690:507)}
+{Delay 0.02}
+{LMouseI up (690,507)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.09:690:507|0.06:695:502)}
+{Delay 0.02}
+{LMouseI up (695,502)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:695:502|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.59}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.22:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.05:644:494|0.06:651:494|0.08:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.17:659:494|0.19:659:494|0.41:659:494|0.31:659:494|0.28:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.11}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.31:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.08:665:628)}
+{LMouseI up (665,628)}
+{Delay 0.25}
+{LMouseI down (677,630)}
+{MovementsI (2.17:665:628|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.02}
+{LMouseI down (690,507)}
+{MovementsI (1.19:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.05:578:472|0.08:616:484|0.19:643:494|0.2:644:494|0.05:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.17:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.05}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.2:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.05:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.14:702:497|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.63}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.31:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.05}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.05}
+{LMouseI down (665,628)}
+{MovementsI (1.31:748:231|0.09:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.24:675:624|0.08:690:507)}
+{LMouseI up (693,502)}
+{LMouseI down (695,502)}
+{MovementsI (0.14:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.05}
+{LMouseI down (707,492)}
+{MovementsI (0.11:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.72}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.22:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.11:463:441|0.08:463:441|0.06:539:460|0.05:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 10.05}
+{PGDN down}
+{Delay 0.05}
+{PGDN up}
+{Delay 15.05}
+{Delay 1.24}
+{WinI ("Wizard101")}
+{LMouseI down (914,512)}
+{Delay 0.11}
+{LMouseI up (914,512)}
+{MovementsI (0.14:914:512|0.05:913:512|0.05:747:451|0.05:636:392|0.05:586:337|0.05:551:299|0.05:498:255|0.05:462:220|0.05:418:188|0.05:408:182|0.05:391:176)}
+{Delay 0.08}
+{LMouseI down (378,168)}
+{Delay 0.09}
+{LMouseI up (378,168)}
+{Delay 1.48}
+{CTRL down}
+{Delay 0.27}
+{5 down}
+{Delay 0.17}
+{5 up}
+{Delay 0.08}
+{CTRL up}
+{Delay 6.28}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 13.59}
+{PGDN down}
+{Delay 0.14}
+{PGDN up}
+{Delay 3.83}
+{x down}
+{Delay 0.14}
+{x up}
+{Delay 20.92}
+{UP down}
+{Delay 2.59}
+{LEFT down}
+{Delay 1.08}
+{LEFT up}
+{Delay 0.02}
+{UP up}
+{Delay 5.66}
+{F3 down}
+{Delay 0.08}
+{F3 up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.91:420:178|0.2:463:441)}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.14:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.11:644:494|0.06:644:494|0.06:651:494|0.08:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.2:748:231)}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.08:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.22:675:624|0.05:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.06:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.58}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.2:463:441)}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.05:616:484|0.22:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.05:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.42:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.05}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.06:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.69}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.66:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.08:616:484|0.2:643:494|0.19:644:494|0.08:644:494|0.06:651:494|0.06:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.23:659:494|0.17:659:494|0.39:659:494|0.31:659:494|0.31:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.03}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.19:748:231)}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.31:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.05}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.16:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.67}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.08:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.22:644:494|0.05:644:494|0.06:651:494|0.08:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.42:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.05}
+{LMouseI down (748,231)}
+{MovementsI (0.5:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.25:748:231|0.08:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.19:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.06:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.59}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.66:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.13:463:441|0.06:463:441|0.06:539:460|0.08:578:472|0.05:616:484|0.19:643:494|0.22:644:494|0.06:644:494|0.08:651:494|0.05:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.06:677:630)}
+{LMouseI up (675,624)}
+{Delay 0.05}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.05}
+{LMouseI down (695,502)}
+{MovementsI (0.08:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.13:463:441|0.05:463:441|0.06:539:460|0.06:578:472|0.05:616:484|0.22:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.3:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.2:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.08:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.2:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.05}
+{LMouseI down (695,502)}
+{MovementsI (0.08:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.08:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.61}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.05}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.13:463:441|0.06:463:441|0.05:539:460|0.08:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.08:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.09:659:494|0.41:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.09:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.14:463:441|0.06:463:441|0.06:539:460|0.08:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.5:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.28:748:231|0.05:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.06:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.02}
+{LMouseI down (690,507)}
+{MovementsI (1.17:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:702:497|0.06:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.17:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.2:659:494|0.41:659:494|0.31:659:494|0.3:658:494)}
+{Delay 0.11}
+{LMouseI up (657,494)}
+{Delay 0.03}
+{LMouseI down (748,231)}
+{MovementsI (0.49:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.03}
+{LMouseI down (665,628)}
+{MovementsI (1.27:748:231|0.06:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.17:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (677,630)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.19:677:630|0.05:690:507)}
+{Delay 0.02}
+{LMouseI up (690,507)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.09:690:507|0.06:695:502)}
+{Delay 0.02}
+{LMouseI up (695,502)}
+{Delay 0.03}
+{LMouseI down (707,492)}
+{MovementsI (0.09:695:502|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.59}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.22:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.2:644:494|0.05:644:494|0.06:651:494|0.08:656:494|0.06:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.03}
+{LMouseI up (659,494)}
+{MovementsI (0.17:659:494|0.19:659:494|0.41:659:494|0.31:659:494|0.28:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.11}
+{LMouseI down (748,231)}
+{MovementsI (0.48:657:494|0.31:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.02}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.08:665:628)}
+{LMouseI up (665,628)}
+{Delay 0.25}
+{LMouseI down (677,630)}
+{MovementsI (2.17:665:628|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.02}
+{LMouseI down (690,507)}
+{MovementsI (1.19:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.02}
+{LMouseI down (695,502)}
+{MovementsI (0.11:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.13:702:497|0.05:707:492)}
+{Delay 0.02}
+{LMouseI up (707,492)}
+{Delay 0.7}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.19:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.19:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.05:578:472|0.08:616:484|0.19:643:494|0.2:644:494|0.05:644:494|0.08:651:494|0.06:656:494|0.06:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.17:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.05}
+{LMouseI down (665,628)}
+{MovementsI (1.3:748:231|0.06:665:628)}
+{Delay 0.02}
+{LMouseI up (663,630)}
+{Delay 0.03}
+{LMouseI down (677,630)}
+{MovementsI (2.16:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.2:675:624|0.06:690:507)}
+{Delay 0.02}
+{LMouseI up (693,502)}
+{Delay 0.03}
+{LMouseI down (695,502)}
+{MovementsI (0.13:693:502|0.05:695:502)}
+{LMouseI up (702,497)}
+{Delay 0.02}
+{LMouseI down (707,492)}
+{MovementsI (0.14:702:497|0.05:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.63}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.03}
+{LMouseI down (463,441)}
+{MovementsI (0.61:707:492|0.2:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.22:463:441|0.11:463:441|0.06:463:441|0.06:539:460|0.06:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.08:658:494)}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.2:659:494|0.19:659:494|0.39:659:494|0.31:659:494|0.31:658:494)}
+{Delay 0.09}
+{LMouseI up (657,494)}
+{Delay 0.05}
+{LMouseI down (748,231)}
+{MovementsI (0.53:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 0.05}
+{LMouseI down (665,628)}
+{MovementsI (1.31:748:231|0.09:665:628)}
+{LMouseI up (663,630)}
+{Delay 0.02}
+{LMouseI down (677,630)}
+{MovementsI (2.19:663:630|0.05:677:630)}
+{Delay 0.02}
+{LMouseI up (675,624)}
+{Delay 0.03}
+{LMouseI down (690,507)}
+{MovementsI (1.24:675:624|0.08:690:507)}
+{LMouseI up (693,502)}
+{LMouseI down (695,502)}
+{MovementsI (0.14:693:502|0.05:695:502)}
+{Delay 0.02}
+{LMouseI up (702,497)}
+{Delay 0.05}
+{LMouseI down (707,492)}
+{MovementsI (0.11:702:497|0.06:707:492)}
+{LMouseI up (707,492)}
+{Delay 0.72}
+{PGUP down}
+{Delay 0.11}
+{PGUP up}
+{Delay 0.02}
+{LMouseI down (463,441)}
+{MovementsI (0.63:707:492|0.22:463:441)}
+{Delay 0.02}
+{LMouseI up (463,441)}
+{MovementsI (0.2:463:441|0.11:463:441|0.08:463:441|0.06:539:460|0.05:578:472|0.06:616:484|0.2:643:494|0.19:644:494|0.06:644:494|0.08:651:494|0.06:656:494|0.05:658:494)}
+{Delay 0.02}
+{LMouseI down (659,494)}
+{Delay 0.02}
+{LMouseI up (659,494)}
+{MovementsI (0.19:659:494|0.19:659:494|0.41:659:494|0.3:659:494|0.31:658:494)}
+{Delay 0.08}
+{LMouseI up (657,494)}
+{Delay 0.02}
+{LMouseI down (748,231)}
+{MovementsI (0.52:657:494|0.19:748:231)}
+{Delay 0.02}
+{LMouseI up (748,231)}
+{Delay 10.05}
+{PGDN down}
+{Delay 0.05}
+{PGDN up}
+{Delay 15.05}
+{F2 down}
+{Delay 0.05}
+{F2 up}
+{Delay 3.0}
